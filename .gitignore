@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+env/
+
+# LAADO runtime / generated files
+laado_*.mp3
+input_*.wav
+laado_memory.db
+profile_memory.json
+
+# API keys / secrets
+.env
+*.key
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+.idea/
+*.swp

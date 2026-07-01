@@ -1,0 +1,9 @@
+PySide6
+groq
+python-dotenv
+edge-tts
+playsound==1.2.2
+SpeechRecognition
+sounddevice
+numpy
+scipy
